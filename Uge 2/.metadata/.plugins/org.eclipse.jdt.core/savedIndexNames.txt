@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\kfjor\Google Drev\DTU\7. semester\02101 Introductory Programming\Uge 2\.metadata\.plugins\org.eclipse.jdt.core
+1830199386.index
+382389117.index
+1865797976.index

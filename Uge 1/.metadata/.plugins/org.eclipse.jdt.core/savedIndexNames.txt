@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\kfjor\Google Drev\DTU\7. semester\02101 Introductory Programming\Uge 1\.metadata\.plugins\org.eclipse.jdt.core
